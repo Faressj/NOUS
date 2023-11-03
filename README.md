@@ -7,7 +7,7 @@ Test de compétences pour intégrer l'équipe dev de NOUS Ouvert Utile et Simple
 ### Objectif
 
 Réaliser de la meilleure manière possible les pages présentées dans une maquette avec le contenu d'une base de données.
-Vous avez 1 semaine.
+Fait en 2 jours.
 
 Critères d'évaluation :
 
